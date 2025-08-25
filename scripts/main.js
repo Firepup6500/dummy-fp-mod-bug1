@@ -1,5 +1,5 @@
 function loopLogic() {
-    cache.contains(p => p.unit() == null)
+    Groups.player.contains(p => p.unit() == null)
 }
 
 function unitLoop() {
