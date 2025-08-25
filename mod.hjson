@@ -1,0 +1,8 @@
+name: "dummy-fp-mod-bug1"
+displayName: "Firepup's Dummy Bug Report Mod (No. 1)"
+author: "Firepup Sixfifty"
+description: "pain and suffering"
+version: "0"
+minGameVersion: "150.1"
+dependencies: [ ]
+hidden: true
